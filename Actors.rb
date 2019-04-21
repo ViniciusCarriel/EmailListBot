@@ -1,4 +1,4 @@
-re "rubygems"
+require "rubygems"
 require "bundler/setup"
 require "mailman"
 
